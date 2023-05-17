@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.card{
+	margin:20px;
+	width:400px;
+	height:600px;
+	background-color:#F6F1F1;
+	text-align:center;
+	padding:40px;
+	box-shadow: 5px 5px #DDDDDD;
+}
+h1{
+	font-size:100px;
+}
+button{
+	width:100px;
+	height:50px;
+}
+	
+}
